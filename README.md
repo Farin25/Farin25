@@ -2,3 +2,4 @@
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Farin25&theme=merko&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Farin25&theme=github-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
