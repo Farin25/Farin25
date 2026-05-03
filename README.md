@@ -2,7 +2,7 @@
 
 ## 🛠️ Tools & Languages
 
-[![Skills](https://skillicons.dev/icons?i=dart,html,css,git,vscode,supabase,linux,md)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=dart,html,css,git,vscode,supabase,linux,md,cloudflare,debian,discord,github,npm,raspberrypi,vercel,windows,nodejs)](https://skillicons.dev)
 
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
