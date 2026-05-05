@@ -15,3 +15,12 @@
 
 ![Stats](./profile/stats.svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Farin25&theme=github-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+---
+
+## My Contribution Graph
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/Farin25/Farin25/-/raw/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/Farin25/Farin25/-/raw/main/output/pacman-contribution-graph-light.svg">
+    <img alt="pacman contribution graph" src="https://gitlab.com/Farin25/Farin25/-/raw/main/output/pacman-contribution-graph-light.svg">
+</picture>
